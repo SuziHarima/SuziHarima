@@ -1,16 +1,34 @@
-## Hi there 👋
+## <h1 align="center"> Hi there 👋 I'm Suzi Harima</h1>
+<h3 align="center">A passionate fullstack developer from Brasil 🇧🇷</h3>
+<p></p>
 
-<!--
-**SuziHarima/SuziHarima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: she/her
 
-Here are some ideas to get you started:
+- 😺 Mother of cats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 Currently working on creation of web page to Pyladies
+
+- 🌉 Member of the community Pyladies Floripa and Python Floripa
+
+- 📚 I’m currently learning **AWS, Python and Kubernetes**
+
+- 📫 How to reach me <a href="https://www.linkedin.com/in/suzi-harima/" target="blank">Linkedin</a>
+
+- <h3 align="left">Languages and Tools:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,javascript,typescript,css,sass,html,bootstrap,git,docker,linux,postman,idea,vscode" />
+  </a>
+</p>
+
+---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suziharima&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suziharima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<br clear="both">
+
+###
+
