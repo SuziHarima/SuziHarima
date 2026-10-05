@@ -10,8 +10,6 @@
 
 - 🌉 Member of the community Pyladies Floripa and Python Floripa
 
-- 📚 I’m currently learning **AWS, Python and Kubernetes**
-
 - 📫 How to reach me <a href="https://www.linkedin.com/in/suzi-harima/" target="blank">Linkedin</a>
 
 - <h3 align="left">Languages and Tools:</h3>
@@ -24,7 +22,6 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suziharima&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suziharima&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
